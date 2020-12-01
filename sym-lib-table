@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name w_connectors)(type Legacy)(uri "C:/Users/Administrator/Google Drive/clienti/Orvim/impronte/w_connectors.lib")(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri "C:/Users/Administrator/Google Drive/clienti/Orvim/impronte/arduino.lib")(options "")(descr ""))
+)
